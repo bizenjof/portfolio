@@ -31,15 +31,14 @@ const Career = () => {
                 <h4>Befiler</h4>
                 <h5>2+ years · Karachi</h5>
               </div>
-              <h3>2012–24</h3>
+              <h3>2024–24</h3>
             </div>
             <p>
-              Senior Lead Software Engineer (Feb 2024 – May 2024). Lead Software
-              Engineer (Feb 2021 – Feb 2024). Software Engineer II (Dec 2017 –
-              Feb 2021): internationalization, globalization, and localization for
-              Adobe Technical Communication Suite; functional and linguistic testing
-              strategy; in-house tooling; collaboration with product and engineering
-              for high-quality localized releases.
+              Managing day-to-day IT operations, providing technical support to users,
+               troubleshooting hardware, software, and network issues, maintaining systems and devices,
+               ensuring smooth network performance, handling installations and configurations,
+                monitoring system security, and supporting 
+              overall business continuity through reliable IT management.
             </p>
           </div>
           {/* <div className="career-info-box">

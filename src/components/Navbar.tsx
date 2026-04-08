@@ -46,7 +46,7 @@ const Navbar = () => {
           AM
         </a>
         <a
-          href="https://www.linkedin.com/in/akashrmalhotra/"
+          href="www.linkedin.com/in/faisal-bizenjo-862245285"
           className="navbar-connect"
           data-cursor="disable"
           target="_blank"
